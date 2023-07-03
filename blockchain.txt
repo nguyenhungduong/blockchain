@@ -1,0 +1,24 @@
+
+Decentralized(diːˈsentrəlaɪzt):phi tập trung
+
+Decentralization:phân quyền
+
+cryptography(krɪpˈtɒɡrəfi):mật mã
+
+	confidentiality(ˌkɒnfɪˌdenʃiˈæləti):Bảo mật
+
+	integrity(ɪnˈteɡrəti):Tính toàn vẹn
+
+	non repudiation(repudiation):không bác bỏ,không từ chối
+
+	authentication(ɔːˌθentɪˈkeɪʃn):xác thực
+	
+	symmetric(sɪˈmetrɪk) cryptography:mật mã đối xứng
+
+	asymmetric(eɪsɪˈmetrɪk) cryptography:mật mã bất đối xứng
+
+distributed(dɪˈstrɪbjuːtid) computing:tính toán phân tán
+
+prerequisites(priːˈrekwəzɪt) :điều kiện tiên quyết
+
+peer to peer network:mạng ngang hàng
