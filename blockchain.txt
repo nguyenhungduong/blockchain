@@ -28,6 +28,28 @@ hash
 
 Merkle Tree:
 	transaction(trænˈzækʃn):giao dịch
+	
+	root:gốc
+	
+	leaf:lá
+
+Blockchain Technology Architecture(ˈɑːrkɪtektʃər):Blockchain Technology Architecture
+	block header:
+		timestamp(ˈtaɪmstæmp):
+		
+		version:
+
+		Merkle root:
+
+		proof of work(Pow):
+
+			difficulty target:
+
+			nonce:
+
+		previous hash:
+
+		immunitiby:
 
 distributed(dɪˈstrɪbjuːtid) computing:tính toán phân tán
 
