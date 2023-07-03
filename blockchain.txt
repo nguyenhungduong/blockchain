@@ -16,6 +16,18 @@ cryptography(krɪpˈtɒɡrəfi):mật mã
 	symmetric(sɪˈmetrɪk) cryptography:mật mã đối xứng
 
 	asymmetric(eɪsɪˈmetrɪk) cryptography:mật mã bất đối xứng
+node:
+	full node
+		verify(ˈverɪfaɪ) the blocks:xác minh các khối
+		store the blockchains:lưu trữ các chuỗi khối
+	partial(ˈpɑːʃl) node:
+		can be use for wallet:có thể được sử dụng cho ví
+		purpose:mục đích
+
+hash
+
+Merkle Tree:
+	transaction(trænˈzækʃn):giao dịch
 
 distributed(dɪˈstrɪbjuːtid) computing:tính toán phân tán
 
